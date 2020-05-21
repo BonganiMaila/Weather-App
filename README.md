@@ -1,11 +1,9 @@
-# Minesweeper-Game
-
-Minesweeper is a single-player puzzle video game. The objective of the game is to clear a rectangular board containing hidden "mines" or bombs without detonating any of them, with help from clues about the number of neighboring mines in each field.
+# Weather App
 
 
 
 ## Table of Contents
-- Index page
+- Landing page
 
 
 ## Technologies Used
@@ -19,16 +17,16 @@ Minesweeper is a single-player puzzle video game. The objective of the game is t
 - Bootstrap
 
 ## Tools
-- Git
+- Git cmd
 - Google Chrome
 - Github
 
 ## Screenshots
 ### Start
-![](https://github.com/BonganiMaila//blob/master/images/Screenshot%20(14).png)
+![](https://github.com/BonganiMaila/Weather-App/tree/master/src/image/Start).png)
 
 ### Display Updated weather report
-![](https://github.com/BonganiMaila/Minesweeper-Game/blob/master/images/Screenshot%20(16).png)
+![](https://github.com/BonganiMaila/Weather-App/tree/master/src/image/Display).png)
 
 
 
