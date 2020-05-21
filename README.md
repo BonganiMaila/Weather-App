@@ -23,10 +23,10 @@
 
 ## Screenshots
 ### Start
-![](https://github.com/BonganiMaila/Weather-App/tree/master/src/image/Start).png)
+![](https://github.com/BonganiMaila/Weather-App/tree/master/src/image/Start.png)
 
 ### Display Updated weather report
-![](https://github.com/BonganiMaila/Weather-App/tree/master/src/image/Display).png)
+![](https://github.com/BonganiMaila/Weather-App/tree/master/src/image/Display.png)
 
 
 
