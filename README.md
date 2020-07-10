@@ -1,6 +1,6 @@
 # Weather App
 This weather app fetches data from the API called the OpenWeatherMap API.
-This app includes a weather icon, temperature reading, and short description of weather conditions from any country in the world.
+This app includes a weather icon, temperature reading, and short description of weather conditions from any city in every country in the world.
 
 ## Table of Contents
 - Landing page
